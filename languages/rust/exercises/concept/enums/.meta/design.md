@@ -9,22 +9,21 @@ The goal of this exercise is to the concept of [enums][thebook] in Rust.
 After completing the exercise, the user should:
 
 - Know of the existence of the `enum` keyword.
-- Know how to define enum members.
-- Know how to assign values to enum members.
+- Know how to define enum variants.
+- Know how to assign values to enum variants.
 - Know how to get an enum's numeric value.
 - Know how to convert a `string` to an `enum` and vice versa.
 
 ## Out of scope
 
-- Flag enums.
+- Tuple enums.
 - Memory and performance characteristics.
 
 ## Concepts
 
 The Concepts this exercise unlocks are:
 
-- `enums-basic`: know of the existence of the `enum` keyword; know how to define enum members; know how to assign values to enum members; know how to get an enum's numeric value; know how to convert a `string` to an `enum` and vice versa.
-- `conditionals-ternary`: know how to conditionally execute code using the ternary operator; know when to use the ternary operator.
+- `enums-basic`: know of the existence of the `enum` keyword; know how to define enum variants; know how to assign values to enum variants; know how to get an enum's numeric value; know how to convert a `string` to an `enum` and vice versa.
 
 ## Prequisites
 
