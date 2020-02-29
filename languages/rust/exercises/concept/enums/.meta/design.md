@@ -2,7 +2,7 @@
 
 ## Goal
 
-The goal of this exercise is to the concept of enums in Rust. 
+The goal of this exercise is to the concept of [enums][thebook] in Rust. 
 
 ## Learning Objectives 
 
@@ -38,12 +38,11 @@ This exercise's prerequisites Concepts are:
 
 ## Representer
 
-This exercise does not require any specific representation logic to be added to the [representer][representer].
+TODO
 
 ## Analyzer
 
 This exercise does not require any specific logic to be added to the [analyzer][analyzer].
 
-[analyzer]: https://github.com/exercism/csharp-analyzer
-[representer]: https://github.com/exercism/csharp-representer
-[docs.microsoft.com-enum]: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum
+[analyzer]: https://github.com/exercism/rust-analyzer
+[thebook]: https://doc.rust-lang.org/book/ch06-00-enums.html
